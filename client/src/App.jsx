@@ -13,6 +13,7 @@ import { ToastContainer } from "react-toastify";
 import RoadMap from "./components/RoadMap";
 import { Routes, Route } from "react-router-dom";
 import NotFound from "./components/404/NotFound";
+import ChatRoom from "./components/Chat/ChatRoom";
 
 
 function App() {
@@ -52,6 +53,7 @@ function App() {
             </>
           }
         />
+        <Route exact path="/chat" element={<ChatRoom/>}/>
         <Route path="*" element={<NotFound />} />
       </Routes>
     </>
