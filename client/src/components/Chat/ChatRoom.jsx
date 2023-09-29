@@ -20,7 +20,7 @@ const ChatRoom = () => {
         }
         try{
             setLoading(true);
-            const response = await axios.get(`http://${ip}:5000/ask?input_string=${message}`);
+            const response = await axios.get(`http://${ip}:5000/ask?input_string=${message}&context=${JSON.stringify(messages)}`);
             const respMessage = {
                 key:messages.length+2,
                 text:response.data.answer,
