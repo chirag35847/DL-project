@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 
 const Home = () => {
   const TEXTS = [
-    "NFTs",
-    "Tokens",
-    "Rewards",
-    "Loyalty",
+    "Depression",
+    "Anxiety",
+    "Loneliness",
+    "Support",
     "Transparency",
-    "End-to-End Transactions",
-    "Secure-Safe",
+    "Panic Attacks",
+    "Worries",
   ];
   const COLORS = [
     "#6F61C0",
@@ -42,7 +42,7 @@ const Home = () => {
           {/* {festival && (<>
             <span className="text-blue-400 mb-4">{festival}</span>
           </>)} */}
-          <h1>Seamless Ecommerce Evolution :</h1>
+          <h1>Get rid of everything negative</h1>
           <TextTransition
             delay={10}
             className="mt-2"
@@ -60,7 +60,7 @@ const Home = () => {
           <div></div>
         </div>
         <button className="text-white back-main px-[40px] py-[10px] mt-20 rounded-md text-[15px] hover:bg-blue-400 active:bg-blue-500 transition-all">
-          <Link to="/auth">Let's Chat</Link>
+          <Link to="/chat">Let's Chat</Link>
         </button>
 
       </div>

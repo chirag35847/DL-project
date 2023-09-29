@@ -17,17 +17,16 @@ const Features = () => {
           >
             <div className="p-6 feature-card rounded-lg expand-on-hover">
               <div className="mb-3">
-              <svg className="hi-outline hi-cube inline-block w-12 h-12 text-indigo-500" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor"  d="M256 117c-65.2 0-124.2 11.6-166.13 29.7-20.95 9.1-37.57 19.8-48.57 31.1S25 200.4 25 212c0 11.6 5.3 22.9 16.3 34.2 11 11.3 27.62 22 48.57 31.1C131.8 295.4 190.8 307 256 307c65.2 0 124.2-11.6 166.1-29.7 21-9.1 37.6-19.8 48.6-31.1S487 223.6 487 212c0-11.6-5.3-22.9-16.3-34.2-11-11.3-27.6-22-48.6-31.1C380.2 128.6 321.2 117 256 117zM25 255.1v50.2c0 6.3 5.3 17.6 16.3 28.9 11 11.3 27.62 22 48.57 31.1C131.8 383.4 190.8 395 256 395c65.2 0 124.2-11.6 166.1-29.7 21-9.1 37.6-19.8 48.6-31.1s16.3-22.6 16.3-28.9v-50.2c-1.1 1.3-2.2 2.5-3.4 3.7-13.3 13.6-31.8 25.3-54.3 35-45 19.5-106 31.2-173.3 31.2-67.3 0-128.3-11.7-173.28-31.2-22.49-9.7-41.01-21.4-54.3-35-1.19-1.2-2.32-2.5-3.42-3.7z"/></svg>
+                <svg className="hi-outline hi-cube inline-block w-12 h-12 text-indigo-500" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><path fill="currentColor" d="M256 117c-65.2 0-124.2 11.6-166.13 29.7-20.95 9.1-37.57 19.8-48.57 31.1S25 200.4 25 212c0 11.6 5.3 22.9 16.3 34.2 11 11.3 27.62 22 48.57 31.1C131.8 295.4 190.8 307 256 307c65.2 0 124.2-11.6 166.1-29.7 21-9.1 37.6-19.8 48.6-31.1S487 223.6 487 212c0-11.6-5.3-22.9-16.3-34.2-11-11.3-27.6-22-48.6-31.1C380.2 128.6 321.2 117 256 117zM25 255.1v50.2c0 6.3 5.3 17.6 16.3 28.9 11 11.3 27.62 22 48.57 31.1C131.8 383.4 190.8 395 256 395c65.2 0 124.2-11.6 166.1-29.7 21-9.1 37.6-19.8 48.6-31.1s16.3-22.6 16.3-28.9v-50.2c-1.1 1.3-2.2 2.5-3.4 3.7-13.3 13.6-31.8 25.3-54.3 35-45 19.5-106 31.2-173.3 31.2-67.3 0-128.3-11.7-173.28-31.2-22.49-9.7-41.01-21.4-54.3-35-1.19-1.2-2.32-2.5-3.42-3.7z" /></svg>
               </div>
 
               <h3 className="text-lg text-white font-normal mb-3">
-                Fungible Token Generation
+                Emotional Support
               </h3>
 
               <p className="text-sm text-slate-400 leading-6">
-                Earn loyalty points through purchases, referrals, and
-                interactions, converted into fungible tokens for secure,
-                transparent value representation
+                Provide a safe and non-judgmental environment for teens to express their feelings and concerns.
+                Use empathetic and understanding language to reassure users.
               </p>
             </div>
 
@@ -50,13 +49,11 @@ const Features = () => {
               </div>
 
               <h3 className="text-lg text-white font-normal mb-2">
-                User-Centric Interface
+                Crisis Intervention
               </h3>
 
               <p className="text-sm leading-6 text-slate-400">
-                User-friendly dashboard to track, redeem rewards, view
-                transaction history, empowering seamless engagement and token
-                management
+                Implement protocols for identifying users in crisis and guide them to seek professional help or contact a crisis hotline.
               </p>
             </div>
 
@@ -66,12 +63,12 @@ const Features = () => {
               </div>
 
               <h3 className="text-lg text-white font-normal mb-2">
-                Instant Settlements
+                Anxiety Management
               </h3>
 
               <p className="text-sm leading-6 text-slate-400">
-                Real-time, on-chain reconciliation of tokens between E-commerce
-                and partners, ensuring swift, tamper-proof transactions
+                Offer evidence-based relaxation and mindfulness exercises.
+                Teach deep breathing techniques to help users manage anxiety and panic attacks.
               </p>
             </div>
 
@@ -81,12 +78,11 @@ const Features = () => {
               </div>
 
               <h3 className="text-lg text-white font-normal mb-2">
-                Transparent Tokenomics
+                Word-Based Games
               </h3>
 
               <p className="text-sm leading-6 text-slate-400">
-                Clearly defined token value and issuance rules for users and
-                brands, fostering trust and efficient treasury management
+                Incorporate word games like word puzzles, crosswords, or word associations to engage users and distract them from negative thoughts.
               </p>
             </div>
           </div>

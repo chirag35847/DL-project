@@ -48,7 +48,7 @@ const NavBar = () => {
             {true ? (
               <li className="list-none inline-block mx-2 font-medium  border-blue-600 cursor-pointer p-2 transition-all">
                 {/* <button className="text-white rounded-md text-[15px] hover:bg-blue-400 active:bg-blue-500 transition-all"> */}
-                  <Link to="/auth">Let's Chat</Link>
+                  <Link to="/chat">Let's Chat</Link>
                 {/* </button> */}
               </li>
             ) : null}

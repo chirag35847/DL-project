@@ -44,7 +44,7 @@ function App() {
                 <Features />
                 <About />
                 <Solutions />
-                <RoadMap />
+                {/* <RoadMap /> */}
                 <Faq />
             
                 <Footer />

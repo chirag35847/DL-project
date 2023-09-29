@@ -1,27 +1,27 @@
 export const data = [
   {
-    question: "Q. What are fungible tokens in the context of this loyalty program?",
-    answer: "Fungible tokens are digital assets that can be exchanged on a one-to-one basis, just like traditional currency. In our loyalty program, these tokens represent the value you earn through various actions such as purchases, referrals, or social media interactions. They're stored securely on the blockchain, ensuring transparency and preventing duplication.",
+    question: "Q. Is RelaxiMate  a substitute for professional therapy or counseling?",
+    answer: "No, RelaxiMate  is not a replacement for professional help. We can provide information, coping strategies, and a listening ear, but if your symptoms are severe or worsening, we strongly encourage you to seek help from a mental health professional or a trusted adult who can connect you with the appropriate resources.",
   },
   {
-    question: "Q. How can I earn fungible tokens in this program?",
-    answer: "You can earn fungible tokens by taking various actions, such as making purchases on our E-commerce platform, referring friends, and engaging with us on social media. Each action comes with a clear set of rules and guidelines that define the number of tokens you'll earn.",
+    question: "Q. How do I start a conversation with RelaxiMate ?",
+    answer: "You can start a conversation with RelaxiMate  by simply typing your message or question in the chatbox. We're available 24/7 to chat with you and provide support.",
   },
   {
-    question: "Q. How do I keep track of my earned fungible tokens and rewards?",
-    answer: "We provide a user-friendly interface where you can easily manage and track your earned fungible tokens. This interface displays your loyalty point balance, past transactions, and available redemption options. You'll have a clear overview of your progress within the program.",
+    question: "Q. Is my conversation with RelaxiMate  private and secure?",
+    answer: "Yes, your privacy is important to us. We have implemented strict data security measures to ensure that your conversations and personal information are kept confidential. We do not share your data with third parties.",
   },
   {
-    question: "Q. Can I use my earned fungible tokens for rewards?",
-    answer: "Absolutely! You can use your earned fungible tokens to redeem rewards from our platform partners and sellers. These rewards are recorded on the blockchain to ensure transparency and prevent any misuse.",
+    question: "Q. What kind of support can I expect from RelaxiMate ?",
+    answer: "RelaxiMate  can provide emotional support, offer advice on managing anxiety and depression, share self-help resources, guide you through relaxation exercises, and even provide word-based games for distraction and stress relief.",
   },
   {
-    question: "Q. How are settlements between E-commerce platforms, brands, and sellers handled?",
-    answer: "Settlements of fungible tokens are made simple and transparent through blockchain technology. Transactions involving tokens are recorded on-chain, allowing seamless and instant settlements between brands, sellers, and the E-commerce platform.",
+    question: "Q. Can RelaxiMate  help with panic attacks in real-time?",
+    answer: "While RelaxiMate  can offer tips and techniques for managing panic attacks, it's essential to seek immediate help from a trusted adult or emergency services if you are experiencing a panic attack or any other crisis. Your safety is our top priority.",
   },
   {
-    question: "Q. What happens to my fungible tokens over time?",
-    answer: "To encourage active participation, we've implemented a decaying nature for fungible tokens in your wallet after a certain period. This means that tokens that aren't used within a specified timeframe will gradually lose value. It's designed to motivate users to engage with the program and enjoy the benefits.",
+    question: "Q. Are the word-based games therapeutic?",
+    answer: "Word-based games provided by RelaxiMate  are designed to offer a fun and engaging distraction from stress and worries. While they can be relaxing, they are not a replacement for professional therapy or treatment.",
   },
 ];
 
@@ -48,9 +48,9 @@ export const data1 = [
 ];
 
 export const data3 = [
-  "Transparent Rewards",
-  "Enhanced Loyalty Points System",
-  "Clear Token Value Guidelines",
-  "Real-time Transaction Reconciliation",
-  "Intuitive User Dashboard",
+  "Depression",
+  "Anxiety",
+  "Loneliness",
+  "Panic Attacks",
+  "Worries",
 ];

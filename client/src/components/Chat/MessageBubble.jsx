@@ -8,7 +8,7 @@ const MessageBubble = ({message,classToAdd}) => {
             classToAdd=='justify-end'?
             <>
                 <div className='mr-[0.5vw] bg-[#E5E4E2] rounded-lg w-[30%] p-2'>
-                    <h2 className='text-md text-left'>{message}</h2>
+                    <h2 className='text-[1.1rem] text-left'>{message}</h2>
                 </div>
                 <Avatar radius={'xl'}/>
             </>
@@ -16,7 +16,7 @@ const MessageBubble = ({message,classToAdd}) => {
             <>
                 <Avatar radius={'xl'}/>
                 <div className='ml-[0.5vw] bg-[#E5E4E2] rounded-lg w-[30%] p-2'>
-                    <h2 className='text-md text-right'>{message}</h2>
+                    <h2 className='text-[1.2rem] text-left'>{message}</h2>
                 </div>
             </>
         }

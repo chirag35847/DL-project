@@ -13,7 +13,7 @@ const Home = () => {
       <div className="z-10 mb-6 lg:mt-10 mobile:mt-10">
         <div className="txt-ternary-light capitalize md:w-[60%] mobile:w-[85%] mx-auto lg:text-[20px] mt-3 md:flex-row flex mobile:flex-col mobile:items-center justify-center">
           <div>
-          At Decentra Shop, we pioneer blockchain-driven loyalty solutions for E-commerce. Our platform generates transparent and secure fungible tokens, fostering seamless user engagement and real-time settlements between brands and partners, all in a user-centric digital environment.
+          Welcome to RelaxiMate, your trusted companion in navigating the complexities of mental health and well-being. We understand that the journey through life, especially as a teenager, can be filled with its fair share of challenges, from anxiety and depression to moments of worry and panic. That's why we're here – to lend a virtual hand and a listening ear whenever you need it most.
           </div>
         </div>
       </div>

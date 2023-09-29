@@ -9,12 +9,12 @@ const Footer = () => {
       <div className="container mx-auto flex flex-col md:flex-row justify-between items-center">
         <div className="mb-4 md:mb-0">
 
-          <h2 className="text-xl font-semibold mt-10">Decentra🛒Shop</h2>
+          <h2 className="text-xl font-semibold mt-10">RelaxiMate</h2>
           <p className="mt-2">IIIT Dharwad Campus, <br/>Ittigatti Road,Near Sattur Colony</p>
           <p> Dharwad 580009</p>
 
         </div>
-        <div>
+        {/* <div>
           <h2 className="text-xl font-semibold">Follow Us</h2>
           <div className="mt-2 flex space-x-4">
             <a href="mailto:Surakshaonepvt@gmail.com?Subject=Regarding Disease">
@@ -27,10 +27,10 @@ const Footer = () => {
               <BsFacebook className="w-5 h-5 text-indigo-500 mx-1" />
             </a>
           </div>
-        </div>
+        </div> */}
       </div>
       <div className="text-center mt-4">
-        <p>&copy; {new Date().getFullYear()} Decentra-Shop. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} RelaxiMate. All rights reserved.</p>
       </div>
     </footer>
   );
